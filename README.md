@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogame development.
 - 🌱 I’m currently learning android game development on unity.
 - 💞️ I’m looking to collaborate on android games.
-- 📫 How to reach me: Email:- abhaypratapyadav340@gmail.com
+- 📫 How to reach me: Email:- plycedes@gmail.com
 
 <!---
 Plycedes/Plycedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
