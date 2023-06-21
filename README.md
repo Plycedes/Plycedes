@@ -7,16 +7,16 @@
 👨‍💻I'm an open-source developer, pursuing Bachelors in CSE. I love solving problems.</div>  
   
 
-- 🔭 I'm currently working on Web and Game development  
+- 🔭 I'm currently working on Blockchain and Game development  
   
 
-- 🌱 I'm currently learning Angular and Kotlin  
+- 🌱 I'm currently learning Solidity and Ethers-Hardhat-JS  
   
 
 - ❓ Ask me about anything related to Unity and related technologies  
   
 
-- ⚡ Fun fact: I always do things on the last possible second  
+- ⚡ Fun fact: I use semicolons while coding in Javascript even though they're optional  
   
 
 <br/>  
