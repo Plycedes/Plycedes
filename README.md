@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to Unity and related technologies  
   
 
-- ⚡ Fun fact: I use semicolons while coding in Javascript even though they're optional  
+- ⚡ Fun fact: I use semicolons in Javascript even though they're optional  
   
 
 <br/>  
